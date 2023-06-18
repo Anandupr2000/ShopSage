@@ -1,0 +1,4 @@
+django
+selenium
+beautifulsoup4
+pytesseract
